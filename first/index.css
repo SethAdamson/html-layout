@@ -1,0 +1,21 @@
+body {
+    background: lightgray;
+ }
+ 
+ header {
+    background: rgb(65, 65, 65);
+    height: 15vh;
+    width: auto;
+ }
+ section {
+    margin: 0 auto;
+    background: white;
+    height: 75vh;
+    width: 600px;
+ }
+ footer {
+    margin: 0 auto;
+    background: black;
+    width: 600px;
+    height: 10vh;
+ }

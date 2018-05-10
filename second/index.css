@@ -1,0 +1,68 @@
+body {
+    background: white;
+}
+
+header {
+    margin: 15px;
+    height: 20vh;
+    width: auto;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+div {
+    display: inline-block;
+}
+
+.purple {
+    background: purple;
+    width: 45px;
+    height: 75%;
+}
+
+.green {
+    height: 100%;
+    width: 400px;
+    background: green;
+    margin: 0 30px;
+}
+
+.circle {
+    height: 100%;
+    width: 20vh;
+    background: skyblue;
+    border-radius: 100%;
+}
+
+section{
+    margin: 15px;
+    height: 20vh;
+    width: auto;
+    border: 5px dotted black;
+    padding: 50px;
+}
+
+article {
+    background: wheat;
+    height: 100%;
+    width: 100%;
+    box-shadow: 5px 5px 10px 0px;
+}
+
+footer {
+    width: 500px;
+    height: 20vh;
+    border: 2px solid lightgray;
+    margin: 0 auto;
+    box-shadow: 4px 4px 5px -1px rgba(0,0,0,0.22);
+    padding: 130px 0 0 0;
+    
+}
+
+p {
+    text-align: center;
+    color: darkblue;
+    font-size: xx-large;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
